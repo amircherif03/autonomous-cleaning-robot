@@ -29,3 +29,11 @@ embedded control architecture developed from scratch.
 - Real-time sensor data processing
 
 ## Project Structure
+src/
+├── main.py          # Entry point
+├── navigation.py    # Movement and obstacle avoidance
+├── ai_module.py     # AI-based mode selection
+└── sensors.py       # Sensor data acquisition
+
+## Status
+✅ Completed — June 2026
